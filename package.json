@@ -1,7 +1,7 @@
 {
-  "name": "webpack-react-redux",
+  "name": "react-css-modules-hot-boilerplate",
   "version": "1.0.0",
-  "description": "A boilerplate for playing around with react, redux and react-router with the help of webpack.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "node server",
