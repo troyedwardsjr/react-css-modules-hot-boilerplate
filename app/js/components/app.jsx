@@ -5,6 +5,7 @@ import { Button } from 'react-md/lib/Buttons';
 
 class App extends Component {
 	render () {
+    // Nav.
 		const nav = <Button key="nav" icon>menu</Button>;
 		const actions = [<Button key="search" icon>search</Button>];
 		return (
