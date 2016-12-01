@@ -1,0 +1,17 @@
+/* Add any css libraries here */
+/*
+@import "../libs/react-md.css";
+*/
+
+/* Fonts */
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+/* Add your component stylesheet below */
+@import './home/main.scss';
+
+/* CSS Libraries in /node_modules folder */
+@import '~react-md/src/scss/react-md';
+
+$md-primary-color: $md-indigo-500 !default;
+$md-secondary-color: $md-pink-a-200 !default;
+
+@include react-md-everything;
