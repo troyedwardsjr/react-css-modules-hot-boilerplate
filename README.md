@@ -3,7 +3,7 @@
 # react-css-modules-hot-boilerplate
 A simple boilerplate for webpack + ES6 + react + redux + multi-reducer + react hot loader + css modules + SASS.
 
-Made for my own projects, containing the scaffolding for everything I currently need in a react boilerplate.
+Made for my own projects, containing the scaffolding for everything I currently need in a react boilerplate. A forked project of webpack-react-redux.
 
 Contains: 
 
