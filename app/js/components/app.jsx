@@ -9,9 +9,8 @@ class App extends Component {
 		const actions = [<Button key="search" icon>search</Button>];
 		return (
 			<div>
-				<h1>Home</h1>
-				<div className="toolbar-group">
-
+        <h1>Home</h1>
+        <div className="toolbar-group">
         <Toolbar
           colored
           title="Colored"
